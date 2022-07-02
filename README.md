@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdestradab
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python, Java and UML. Outside the tech world I'm a cook and a Public Adminstration student.
-- 💞️ I’m looking to collaborate on Java software.
+- 👀 I’m interested in software development and data science.
+- 🌱 I’m currently learning DevOps with Cisco. Outside the tech world I'm a cook, and a Public Administration student.
+- 💞️ I’m looking to collaborate on Python related projects as a Back-End dev.
 - 📫 How to reach me: cdestradab@gmail.com
 
 <!---
